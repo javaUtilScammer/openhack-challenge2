@@ -32,7 +32,7 @@ module.exports = async function (context, req) {
                 context.res = {
                     // status: 200, /* Defaults to 200 */
                     // body: results
-                    body: "Hello from staging"
+                    body: "Hello from jessdev"
                 };
             }
             else{
